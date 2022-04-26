@@ -1,0 +1,22 @@
+Fit Measure ,Value
+npar,28
+fmin,4.107964637
+chisq,369.7168174
+df,63
+pvalue,0
+baseline.chisq,976.6777927
+baseline.df,78
+baseline.pvalue,0
+cfi,0.658702129
+tli,0.577440731
+logl,-520.0252439
+unrestricted.logl,-335.1668353
+aic,1096.050488
+bic,1146.637038
+ntotal,45
+bic2,1058.869113
+rmsea,0.328921501
+rmsea.ci.lower,0.296916646
+rmsea.ci.upper,0.361759735
+rmsea.pvalue,0
+srmr,0.115784018

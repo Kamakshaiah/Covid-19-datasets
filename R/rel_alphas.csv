@@ -1,0 +1,13 @@
+,total.raw_alpha,total.std.alpha,total.G6.smc.,total.average_r,total.S.N,total.ase,total.mean,total.sd,total.median_r
+1,0.940566808,0.940566808,0.987912468,0.513391703,15.82561498,0.012784892,2.10E-17,0.738804613,0.543660031
+,,,,,,,,,
+,Name,Alpha,,,,,,,
+,total.raw_alpha,0.940566808,,,,,,,
+,total.std.alpha,0.940566808,,,,,,,
+,total.G6.smc.,0.987912468,,,,,,,
+,total.average_r,0.513391703,,,,,,,
+,total.S.N,15.82561498,,,,,,,
+,total.ase,0.012784892,,,,,,,
+,total.mean,2.10E-17,,,,,,,
+,total.sd,0.738804613,,,,,,,
+,total.median_r,0.543660031,,,,,,,
